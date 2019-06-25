@@ -1,4 +1,4 @@
-# Corda Issue #
+# [Corda Issue 5254](https://github.com/corda/corda/issues/5254) #
 
 This is a simple, dummy v4.0 Cordapp meant to demonstrate the inability to implement hiearchical persistence
 as referenced in the official Corda v4.0 documentation. 
